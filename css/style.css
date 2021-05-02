@@ -15,7 +15,7 @@ section {
     margin: 50px auto;
 }
 .cell {
-    font-family: 'Press Start 2P', sans-serif;
+    /*font-family: 'Press Start 2P', sans-serif;*/
     width: 100px;
     height: 100px;
     box-shadow: 0 0 0 1px #333333;
