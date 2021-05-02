@@ -51,6 +51,7 @@ const winningConditions = [
 function handleCellPlayed(clickedCell, clickedCellIndex) {
     gameState[clickedCellIndex] = currentPlayer;
     clickedCell.innerHTML = currentPlayer;
+//    THIS IS WHERE YOU CAN ALTER THE EVENT TO CHANGE THE X AND O
 }
 function handlePlayerChange() {
     currentPlayer = currentPlayer === "X" ? "O" : "X";
