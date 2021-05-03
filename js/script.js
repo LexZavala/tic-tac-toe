@@ -75,6 +75,7 @@ function handleResultValidation() {
     }
     if (roundWon) {
         statusDisplay.innerHTML = winningMessage();
+        // document.getElementsByClassName('.cell').style("color", "green");
         gameActive = false;
         return;
     }
