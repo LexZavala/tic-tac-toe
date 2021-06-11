@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 html {
-    height: 100vh;
-    width: 100vw;
+    /*height: 100vh;*/
+    /*width: 100vw;*/
 }
 body {
     font-family: 'Press Start 2P', sans-serif;
     background-color: #F0F0F0;
-    height: 100vh;
-    width: 100vw;
+    /*height: 100vh;*/
+    /*width: 100vw;*/
 
     /*font-family: "Arial", sans-serif;*/
 }
